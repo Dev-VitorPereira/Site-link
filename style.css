@@ -14,6 +14,7 @@ main{
     margin: auto; /* centralizar*/
     border-radius: 20px; /* arrendodar bordas*/
     box-shadow: 10px 10px 10px black; /* sombra*/
+    
 }
 h1{
     color: #e4110e; /* cor letras*/
